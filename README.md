@@ -2,7 +2,8 @@
 
 Introduction page of the package
 
-Penser dans le PAT à mettre les droits sur le repo en public (débloquer erreur 404).
+Penser dans le PAT à mettre les droits sur le repo en public (débloquer erreur 404).  
+Suite à la première erreur, gh-pâges était présent et causait une erreur 422, brnche retirée sur GH, new try.  
 
 ---
 
