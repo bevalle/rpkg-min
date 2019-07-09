@@ -1,6 +1,8 @@
 # The Amazing rpkgMin
 
-Introduction page of the package  
+Introduction page of the package
+
+Penser dans le PAT à mettre les droits sur le repo en public (débloquer erreur 404).
 
 ---
 
